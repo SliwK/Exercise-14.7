@@ -36,5 +36,8 @@
     "url": ""
   },
   "homepage": "",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1"
+  }
 }
